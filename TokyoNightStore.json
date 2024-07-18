@@ -42,6 +42,7 @@
         "icon.accent": null,
         "status_bar.background": "#1f2335",
         "title_bar.background": "#1f2335",
+        "title_bar.inactive_background": "#1f2335",
         "toolbar.background": "#1f2335",
         "tab_bar.background": "#151825",
         "tab.inactive_background": "#151825",
