@@ -140,7 +140,7 @@
         "warning.border": "#414868",
         "players": [
           {
-            "cursor": "#545c7e",
+            "cursor": "#CCCCCC",
             "background": "#545c7e",
             "selection": "#545b7d5c"
           }
